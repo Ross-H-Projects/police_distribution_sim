@@ -32,9 +32,9 @@ To get the exhaustive results i.e. test on all possible distributions
 when we have 19 cars to distribute over all districts
 ```sh 
 $ cd "brute force programs" 
->node get_best_for_19_cars.js
+$ node get_best_for_19_cars.js
 or
->node get_best_for_28_cars.js
+$ node get_best_for_28_cars.js
 ```
 
 
