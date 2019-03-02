@@ -18,10 +18,10 @@ $ npm install
 To run the simulation for individual scenarios:
 ```sh
 $ cd "brute force programs"
-$ node simulation.js 2 4 5 4 4
+$ node simulation.js 5000 2 4 5 4 4
 ```
 
-this will run the simulation with the distribution:
+this will run the simulation (until 5000 discree events are processed) with the distribution:
 * District A: 2 cars,
 * District B: 4 cars,
 * ...
